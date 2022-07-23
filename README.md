@@ -24,6 +24,7 @@ while beginning and ending at the same point is known as the travelling salesman
  algorithms are employed to reduce the solution space. One easy to implement algorithm is the nearest neighbor,
  which selects the next class by picking the room closest to the current class.
  
+ ![bar chart]("bar chart before after.png")
  When using a random sampling of 20 students stratified across the four grade levels, the algorithm reduced 
  the total distance traveled for each student by 45%.
  
