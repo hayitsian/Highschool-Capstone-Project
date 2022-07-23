@@ -23,8 +23,8 @@ while beginning and ending at the same point is known as the travelling salesman
  most optimal pathway in a reasonable amount of time, even with an infinite memory stack. As such, heuristic 
  algorithms are employed to reduce the solution space. One easy to implement algorithm is the nearest neighbor,
  which selects the next class by picking the room closest to the current class.
- 
- ![bar chart]("bar chart before after.png")
+
+ ![bar chart](https://github.com/hayitsian/Highschool-Capstone-Project/blob/main/bar%20chart%20before%20after.png)
  When using a random sampling of 20 students stratified across the four grade levels, the algorithm reduced 
  the total distance traveled for each student by 45%.
  
