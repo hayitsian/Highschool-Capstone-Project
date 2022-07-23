@@ -17,6 +17,8 @@ unique identifiers for rooms, hallways, walls, and stairwells. This array could 
 distance between two rooms by summing the "cost" of traversing each tile and minimizing it using the A*
 pathfinding algorithm.
 
+![2nd floor encoding](https://github.com/hayitsian/Highschool-Capstone-Project/blob/main/2nd%20floor%20encoding.png)
+
 The next problem, however, is impossible to solve. Minimizing the distance of traversing to any `n` points
 while beginning and ending at the same point is known as the travelling salesman problem. This mathematical
  problem is known as NP-complete complexity, meaning no algorithm is capable of always outputing the
