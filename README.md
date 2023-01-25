@@ -7,7 +7,7 @@
 ---
 
 Conestoga High School, as of 2018, had over 2,000 students across a 320,000+ squarefoot floorplan. At that 
-the hallway was should-to-should packed walking in between classes throughout the 8-period school day. Student's
+the hallway was shoulder-to-shoulder packed walking in between classes throughout the 8-period school day. Student's
 with rooms assigned across the school one after another were often late for the next period. To alleviate
 the hallway traffic without changing the layout of the building, my capstone project aimed to minimize the 
 distance students would travel between classes throughout the day.
